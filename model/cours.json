@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"Matematika",
+        "teachers":["Ramazonov Jamshid", "Davronov Jonibek"]
+    },
+    {
+        "id":2,
+        "name":"Fizika",
+        "teachers":["Baygazov Murod", "Risboyev Yorqin"]
+    },
+    {
+        "id":3,
+        "name":"Biologiya",
+        "teachers":["Islomov Akbar"]
+    },
+    {
+        "id":4,
+        "name":"Kimyo",
+        "teachers":["Hilola opa"]
+    },
+    {
+        "id":5,
+        "name":"Tarix",
+        "teachers":["Abdurazzoqov Mirjalol"]
+    },
+    {
+        "id":6,
+        "name":"Ona-tili",
+        "teachers":["Mavlon Burxonov","Atoyev Botir", "Akbarov Biloliddin"]
+    },
+    {
+        "id":7,
+        "name":"Ingliz-tili",
+        "teachers":["Saydusmanov Asomiddin","Razzoqov Furqat"]
+    }
+]
